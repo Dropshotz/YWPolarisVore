@@ -57,8 +57,8 @@
 	mob_size = MOB_SMALL
 	pass_flags = PASSTABLE
 	holder_type = /obj/item/weapon/holder/human
-	short_sighted = 1
-	gluttonous = 1
+	short_sighted = 0
+	gluttonous = 0
 	blood_volume = 400
 	hunger_factor = 0.2
 
