@@ -136,14 +136,14 @@
 		/obj/item/weapon/cell/device,
 		/obj/item/device/electronic_assembly,
 		/obj/item/device/assembly/electronic_assembly,
-		/obj/item/clothing/under/circuitry,
+/*		/obj/item/clothing/under/circuitry,
 		/obj/item/clothing/gloves/circuitry,
 		/obj/item/clothing/glasses/circuitry,
 		/obj/item/clothing/shoes/circuitry,
 		/obj/item/clothing/head/circuitry,
 		/obj/item/clothing/ears/circuitry,
 		/obj/item/clothing/suit/circuitry,
-		/obj/item/weapon/implant/integrated_circuit,
+		/obj/item/weapon/implant/integrated_circuit, */
 		/obj/item/integrated_circuit
 
 		)

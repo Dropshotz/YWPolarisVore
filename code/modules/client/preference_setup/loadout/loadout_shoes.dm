@@ -204,7 +204,8 @@
 /datum/gear/shoes/boots/winter/hydro
 	display_name = "hydroponics winter boots"
 	path = /obj/item/clothing/shoes/boots/winter/hydro
-
+/*
 /datum/gear/shoes/circuitry
 	display_name = "boots, circuitry (empty)"
 	path = /obj/item/clothing/shoes/circuitry
+*/

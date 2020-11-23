@@ -19,8 +19,19 @@
 	id = "ic_printer_upgrade_adv"
 	req_tech = list(TECH_ENGINEERING = 3, TECH_DATA = 4)
 	materials = list(DEFAULT_WALL_MATERIAL = 2000)
-	build_path = /obj/item/weapon/disk/integrated_circuit/upgrade/advanced
+	build_path = /obj/item/disk/weapon/integrated_circuit/upgrade/advanced
 	sort_string = "UBAAA"
+
+//Whole new disk! arfs
+
+/datum/design/item/integrated_circuitry/custom_circuit_printer_upgrade_clone
+	name = "Integrated circuit printer upgrade - Fast Cloning"
+	desc = "Allows the integrated circuit printer to instantly clone assemblies"
+	id = "ic_printer_upgrade_cln"
+	req_tech = list(TECH_ENGINEERING = 4, TECH_DATA = 5)
+	materials = list(DEFAULT_WALL_MATERIAL = 2000)
+	build_path = /obj/item/weapon/disk/integrated_circuit/upgrade/clone
+	sort_string = "UBBBB"
 
 /datum/design/item/integrated_circuitry/wirer
 	name = "Custom wirer tool"
@@ -89,6 +100,7 @@
 	build_path = /obj/item/device/assembly/electronic_assembly
 	sort_string = "UDAAE"
 
+/*
 /datum/design/item/integrated_circuitry/assembly/custom_circuit_assembly_implant
 	name = "Implant custom assembly"
 	desc = "An customizable assembly for very small devices, implanted into living entities."
@@ -97,3 +109,5 @@
 	materials = list(DEFAULT_WALL_MATERIAL = 2000)
 	build_path = /obj/item/weapon/implant/integrated_circuit
 	sort_string = "UDAAF"
+
+	*/

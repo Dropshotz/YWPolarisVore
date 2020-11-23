@@ -1,4 +1,4 @@
-/obj/item/weapon/implant/integrated_circuit
+/*/obj/item/weapon/implant/integrated_circuit
 	name = "electronic implant"
 	desc = "It's a case, for building very tiny electronics with."
 	icon = 'icons/obj/integrated_electronics/electronic_setups.dmi'
@@ -46,3 +46,4 @@
 
 /obj/item/weapon/implant/integrated_circuit/attack_self(mob/user)
 	IC.attack_self(user)
+*/

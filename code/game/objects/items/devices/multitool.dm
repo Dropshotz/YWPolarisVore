@@ -42,16 +42,16 @@
 			connecting = null
 			connectable = null
 			weakref_wiring = null
-			accepting_refs = 0
+		/*	accepting_refs = 0
 			if(toolmode == MULTITOOL_MODE_INTCIRCUITS)
 				accepting_refs = 1
 		if("Switch Mode")
 			mode_switch(user)
 
 	update_icon()
-
+*/
 	return ..()
-
+/*
 /obj/item/device/multitool/proc/mode_switch(mob/living/user)
 	if(mode_index + 1 > modes.len) mode_index = 1
 
@@ -64,7 +64,7 @@
 	accepting_refs = (toolmode == MULTITOOL_MODE_INTCIRCUITS)
 
 	return
-
+*/
 /obj/item/device/multitool/is_multitool()
 	return TRUE
 

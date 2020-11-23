@@ -858,13 +858,13 @@
 	product_ads = "You can't RESIST our great deals!;Feeling disconnected? We have a gadget for you!;You know you have the capacity to buy our capacitors!;FILL THAT HOLE IN YOUR HEART WITH OUR PLASTIC DISTRACTIONS!!!;Devices for everyone! Chips Co.!;ROBUST INVENTORY, GREAT PRICES! ;DON'T FORGET THE oyPAD 13s PRO! ON SALE NOW, ONLY ONE THOUSAND THALERS!"
 	icon_state = "gadgets"
 	vend_delay = 11
-	products = list(/obj/item/clothing/suit/circuitry = 1,
+	products = list(/*/obj/item/clothing/suit/circuitry = 1,
 					/obj/item/clothing/head/circuitry = 1,
 					/obj/item/clothing/shoes/circuitry = 1,
 					/obj/item/clothing/gloves/circuitry = 1,
 					/obj/item/clothing/under/circuitry = 1,
 					/obj/item/clothing/glasses/circuitry = 1,
-					/obj/item/clothing/ears/circuitry = 1,
+					/obj/item/clothing/ears/circuitry = 1, */
 					/obj/item/device/text_to_speech = 5,
 					/obj/item/device/paicard = 5,
 					/obj/item/device/communicator = 10,
@@ -878,13 +878,13 @@
 					/obj/item/device/flashlight = 5,
 					/obj/item/device/laser_pointer = 3,
 					/obj/item/clothing/glasses/omnihud = 10)
-	prices = list(/obj/item/clothing/suit/circuitry = 100,
+	prices = list(/*/obj/item/clothing/suit/circuitry = 100,
 					/obj/item/clothing/head/circuitry = 100,
 					/obj/item/clothing/shoes/circuitry = 100,
 					/obj/item/clothing/gloves/circuitry = 100,
 					/obj/item/clothing/under/circuitry = 100,
 					/obj/item/clothing/glasses/circuitry = 100,
-					/obj/item/clothing/ears/circuitry = 100,
+					/obj/item/clothing/ears/circuitry = 100, */
 					/obj/item/device/text_to_speech = 300,
 					/obj/item/device/paicard = 100,
 					/obj/item/device/communicator = 100,

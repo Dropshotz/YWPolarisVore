@@ -75,18 +75,19 @@ SUBSYSTEM_DEF(circuit)
 		/obj/item/device/electronic_assembly/drone/medbot,
 		/obj/item/device/electronic_assembly/drone/genbot,
 		/obj/item/device/electronic_assembly/drone/android,
-		/obj/item/device/electronic_assembly/wallmount/tiny,
+//		/obj/item/device/electronic_assembly/wallmount/tiny,
 		/obj/item/device/electronic_assembly/wallmount/light,
 		/obj/item/device/electronic_assembly/wallmount,
 		/obj/item/device/electronic_assembly/wallmount/heavy,
-		/obj/item/weapon/implant/integrated_circuit,
-		/obj/item/clothing/under/circuitry,
+//		/obj/item/weapon/implant/integrated_circuit,
+/*		/obj/item/clothing/under/circuitry,
 		/obj/item/clothing/gloves/circuitry,
 		/obj/item/clothing/glasses/circuitry,
 		/obj/item/clothing/shoes/circuitry,
 		/obj/item/clothing/head/circuitry,
 		/obj/item/clothing/ears/circuitry,
 		/obj/item/clothing/suit/circuitry
+		*/
 		)
 
 	circuit_fabricator_recipe_list["Tools"] = list(
